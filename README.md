@@ -1,2 +1,2 @@
 # odin-recipes
-# add introduction about the project
+# CHOCOLATE, A FOOD THAT SWEETENS THE PALATE AND COMFORTS THE SOUL
